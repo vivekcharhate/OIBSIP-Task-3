@@ -1,0 +1,34 @@
+
+
+body {
+    background-color: #c33939;
+    background-image: url("temp2.jpg");
+    background-size: cover;
+    color: #0c0707;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: static;
+    width: 1000px;
+    height: 600px;;
+    background-color: #64164c;
+    padding: 70px 50px;
+
+  }
+
+  
+  
+  .row {
+    font-style: italic;
+    align-content: center;
+    align-items: center;
+    color: black;
+    text-decoration-color: black;
+  }
+  .h1{
+    font-style: italic;
+    color: black;
+    text-align: center;
+    text-justify:auto;
+  }
